@@ -1,4 +1,4 @@
-# Maze Runner
+# Maze Runner :video_game:
 *`Created 2021`*
 
 # Description
