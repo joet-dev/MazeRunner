@@ -11,4 +11,4 @@ Beware: Make sure your stamina doesn’t drop to zero or you will lose the game!
 
 **Game Features**
 
-Users can set the difficulty (0-10) of the game. If the value input is invalid (letters or numbers outside of the range), the game will automatically use the default value of 5. To prevent misunderstandings and issues, the difficulty cannot be changed while in game. Therefore, I have implemented a quit button if they want to change the difficulty. The game has full save-state and load-state functionality using java serializable. 
+Users can set the difficulty (0-10) of the game. If the value input is invalid (letters or numbers outside of the range), the game will automatically use the default value of 5. To prevent misunderstandings and issues, the difficulty cannot be changed while in game. Therefore, I have implemented a quit button if they want to change the difficulty. The game has full save-state and load-state functionality using java.io serializable. 
