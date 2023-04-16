@@ -7,6 +7,8 @@ Maze Runner is a simple 2D grid-based game where you must navigate your way thro
 To win the game: Reach the exit. Your score will be the number of coins you have collected.
 Beware: Make sure your stamina doesn’t drop to zero or you will lose the game! If you step on a trap without any gold coins you will lose the game!
 
+Below is a basic UML diagram of the game. 
+
 ![Maze Game UML](https://user-images.githubusercontent.com/69287038/232345221-b16f30d9-1e8b-4f34-a5a1-9f3f32fbee60.png)
 
 **Game Features**
